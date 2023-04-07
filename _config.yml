@@ -1,0 +1,14 @@
+title: About Me | Julien Veron Vialard's blog
+author: Julien Veron Vialard
+email: julien.veronvialard@gmail.com 
+show_excerpts: false # set to true to show excerpts on the homepage
+
+github:  jvialard
+linkedin: julien-veron-vialard
+
+# Build settings
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
